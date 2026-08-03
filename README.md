@@ -12,8 +12,8 @@
 | 02 | [提示词和 Skills](02.提示词和Skills.md) | 提示词工程核心技巧、Few-shot、思维链（CoT）、ReAct、Skills 等进阶玩法 |
 | 03 | [大模型能帮我们做什么](03.大模型能帮我们做什么.md) | 文本概括、文本分类等实战案例，动手打造网页摘要生成助手 |
 | 04 | [自己动手撸一个聊天机器人](04.自己动手撸一个聊天机器人.md) | 使用 Streamlit 构建可交互、可部署的对话式 AI 聊天机器人 |
-| 05 | [使用 LangChain 构建 AI 智能体](05.使用 LangChain 构建 AI 智能体.md) | LangChain 生态体系、核心概念与工程化实践，系统构建可维护的智能体应用 |
-| 06 | [LangGraph 快速上手指南](06.LangGraph 快速上手指南.md) | 状态（State）、节点（Nodes）、边（Edges）、工具调用、多 Agent 协同等核心概念 |
+| 05 | [使用 LangChain 构建 AI 智能体](05.使用LangChain构建AI智能体.md) | LangChain 生态体系、核心概念与工程化实践，系统构建可维护的智能体应用 |
+| 06 | [LangGraph 快速上手指南](06.LangGraph快速上手指南.md) | 状态（State）、节点（Nodes）、边（Edges）、工具调用、多 Agent 协同等核心概念 |
 
 ### 技术栈
 
